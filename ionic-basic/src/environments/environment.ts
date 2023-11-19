@@ -11,7 +11,8 @@ export const environment = {
     storageBucket: "labmov-39332.appspot.com",
     messagingSenderId: "38203736080",
     appId: "1:38203736080:web:1fd52184e47cc854ec0a95"
-  }
+  },
+  apiKeyMaps: 'AIzaSyDGs5-2zIanFc6mAg4y7dQDmTILxfqHYM8'
 };
 
 /*
