@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   firebaseConfig : {
-    apiKey: "AIzaSyBVnyU-9WK8U54HwVjDIv_uxBtFtYMz7hQ",
+   apiKey: "AIzaSyBVnyU-9WK8U54HwVjDIv_uxBtFtYMz7hQ",
     authDomain: "labmov-39332.firebaseapp.com",
     projectId: "labmov-39332",
     storageBucket: "labmov-39332.appspot.com",
